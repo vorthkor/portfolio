@@ -2,9 +2,9 @@
 
 [My profile](https://github.com/vorthkor)
 
-[My website](vorthkor.github.io/wikitao/)
+[My website](https://vorthkor.github.io/wikitao/)
 
-[My blog](vorthkor.github.io/wikitao/)
+[My blog](https://vorthkor.github.io/wikitao/)
 
 # Projects
 

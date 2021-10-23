@@ -1,1 +1,1 @@
-![Main image][main-img.jpg]
+![Main image](main-img.jpg "Electronic components")
