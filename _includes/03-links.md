@@ -4,7 +4,7 @@
 
 [My website](https://vorthkor.github.io/wikitao/)
 
-[My blog](https://vorthkor.github.io/wikitao/)
+[My blog](https://vorthkor.github.io/victao-blog/)
 
 # Projects
 
