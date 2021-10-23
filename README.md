@@ -14,4 +14,4 @@ Created with jekyll
 
 > "Soon new things."
 
-  [pp]: https://www.raspberrypi.com/documentation/computers/os.html#gpio-and-the-40-pin-header
+  [pp]: https://vorthkor.github.io/portfolio/
