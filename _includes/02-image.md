@@ -1,1 +1,1 @@
-![Main image](main-img.jpg "Electronic components")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
