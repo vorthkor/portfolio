@@ -1,1 +1,1 @@
-![Main image][../img/main-img.jpg]
+![Main image][/img/main-img.jpg]
