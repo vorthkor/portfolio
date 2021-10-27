@@ -1,1 +1,1 @@
-![Image of Raspberry Pi Zero W](https://raw.githubusercontent.com/vorthkor/portfolio/main/_includes/main-img.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
