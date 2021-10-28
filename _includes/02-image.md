@@ -1,1 +1,1 @@
-![Image of Project](../assets/main-img.jpg)
+![Image of Project](https://raw.githubusercontent.com/vorthkor/portfolio/main/assets/main-img.jpg)
