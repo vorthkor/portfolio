@@ -4,9 +4,6 @@
 
 [My blog](https://vorthkor.github.io/victao-blog/)
 
-[My website](https://vorthkor.github.io/wikitao/)
-
-
 # Projects
 
 - [tempsense](https://github.com/vorthkor/tempsense)
