@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% include 03-links.md %}
 
 <br>
 
@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+{% include 01-name.md %}
