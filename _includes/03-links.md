@@ -2,7 +2,7 @@
 
 [Final project front-end](https://github.com/vorthkor/sfingers-music-store-front)
 
-Layout of a music store project for college final project.
+Layout of a music store application for college final project.
 
 [Alura's imersao dev](https://vorthkor.github.io/certificard/)
 
