@@ -1,8 +1,6 @@
-## My Personal Portfolio
+# My Personal Portfolio
 
-Click [here to access my personal portfolio][pp] with some nice projects.
-
-Created with jekyll
+List of important projects.
 
 ## Subjects
 
