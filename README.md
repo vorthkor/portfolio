@@ -7,6 +7,7 @@ List of important projects.
 * Python
 * Raspberry Pi
 * Telegram Bots
+* Web dev learning
 
 * * *
 
