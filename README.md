@@ -2,15 +2,17 @@
 
 List of important projects.
 
+Access [here][pp]
+
 ## Subjects
 
-* Python
-* Raspberry Pi
-* Telegram Bots
-* Web dev learning
+* Electronics
+* Web Development
+* Applications
+* Study
+* Support repositories
 
 * * *
 
-> "Soon new things."
 
   [pp]: https://vorthkor.github.io/portfolio/
