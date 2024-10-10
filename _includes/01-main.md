@@ -2,10 +2,10 @@
 
 ## [Electronics](#electronic-projects)
 
-## [Applications](./apps.md)
+## [Applications](#application-projects)
 
-## [Web Development](./web.md)
+## [Web Development](#web-development-projects)
 
-## [Study](./study.md)
+## [My Studies](#study)
 
-## [Support material](./support.md)
+## [Support](#support-material)

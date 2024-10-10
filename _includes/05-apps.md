@@ -1,4 +1,4 @@
-# Applications
+# Application Projects
 
 ## HTML + CSS  + JS
 
