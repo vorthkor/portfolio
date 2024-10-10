@@ -1,6 +1,6 @@
 # Repos
 
-## [Electronics](./electronic.md)
+## [Electronics](#electronic-projects)
 
 ## [Applications](./apps.md)
 
