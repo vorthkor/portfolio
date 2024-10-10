@@ -1,11 +1,11 @@
 # Repos
 
-## [Electronics](../electronic.md)
+## [Electronics](./electronic.md)
 
-## [Applications](../apps.md)
+## [Applications](./apps.md)
 
-## [Web Development](../web.md)
+## [Web Development](./web.md)
 
-## [Study](../study.md)
+## [Study](./study.md)
 
-## [Support material](../support.md)
+## [Support material](./support.md)
